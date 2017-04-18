@@ -1,0 +1,22 @@
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  color: #8A96C3;
+}
+
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: lighter;
+  color: #9D9FA8;
+}
+
+p {
+  color: #D92727;
+  text-align:center;
+}
+
+ul {
+  color:#EFEB2B;
+  text-align: center;
+}
